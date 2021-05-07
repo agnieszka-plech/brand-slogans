@@ -56,4 +56,4 @@ Here's a link to the final presentation: https://readymag.com/u393092791/2746732
 
 If you have any feedback or suggestions on how to improve the project and the code, you can reach out to me through LinkedIn: https://www.linkedin.com/in/agnieszka-plech-81746b185/
 
-I hope you enjoy this project as much as I did :)
+I hope you enjoy this project as much as I did :) 
